@@ -1,0 +1,639 @@
+action_id,incident_id,action_type,action_time,note
+ACT-0001,INC-1002,Status changed: Submitted -> Under Review,21/05/2026 07:18 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0002,INC-1002,Status changed: Under Review -> Resolved,23/05/2026 12:26 AM,Synthetic resolution recorded for demonstration.
+ACT-0003,INC-1003,Status changed: Submitted -> Under Review,31/07/2026 09:00 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0004,INC-1003,Status changed: Under Review -> Resolved,31/07/2026 08:06 PM,Synthetic resolution recorded for demonstration.
+ACT-0005,INC-1004,Status changed: Submitted -> Under Review,30/09/2026 10:04 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0006,INC-1004,Status changed: Under Review -> Resolved,01/10/2026 07:05 AM,Synthetic resolution recorded for demonstration.
+ACT-0007,INC-1005,Status changed: Submitted -> Under Review,19/05/2026 06:56 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0008,INC-1005,Status changed: Under Review -> Resolved,20/05/2026 10:59 AM,Synthetic resolution recorded for demonstration.
+ACT-0009,INC-1006,Status changed: Submitted -> Under Review,20/05/2026 09:42 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0010,INC-1006,Status changed: Under Review -> Resolved,21/05/2026 10:27 PM,Synthetic resolution recorded for demonstration.
+ACT-0011,INC-1009,Status changed: Submitted -> Under Review,02/10/2026 03:54 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0012,INC-1010,Status changed: Submitted -> Under Review,21/09/2026 03:49 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0013,INC-1011,Status changed: Submitted -> Under Review,21/06/2026 08:55 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0014,INC-1011,Status changed: Under Review -> Resolved,22/06/2026 06:51 AM,Synthetic resolution recorded for demonstration.
+ACT-0015,INC-1012,Status changed: Submitted -> Under Review,22/05/2026 04:35 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0016,INC-1012,Status changed: Under Review -> Resolved,23/05/2026 07:21 AM,Synthetic resolution recorded for demonstration.
+ACT-0017,INC-1014,Status changed: Submitted -> Under Review,15/09/2026 12:33 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0018,INC-1016,Status changed: Submitted -> Under Review,04/09/2026 06:53 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0019,INC-1016,Status changed: Under Review -> Resolved,04/09/2026 07:25 AM,Synthetic resolution recorded for demonstration.
+ACT-0020,INC-1017,Status changed: Submitted -> Under Review,07/08/2026 10:05 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0021,INC-1018,Status changed: Submitted -> Under Review,22/08/2026 09:24 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0022,INC-1018,Status changed: Under Review -> Resolved,24/08/2026 06:20 AM,Synthetic resolution recorded for demonstration.
+ACT-0023,INC-1019,Status changed: Submitted -> Under Review,25/06/2026 05:06 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0024,INC-1019,Status changed: Under Review -> Resolved,26/06/2026 08:50 PM,Synthetic resolution recorded for demonstration.
+ACT-0025,INC-1024,Status changed: Submitted -> Under Review,12/07/2026 07:51 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0026,INC-1024,Status changed: Under Review -> Closed,13/07/2026 11:50 AM,Synthetic closure recorded for demonstration.
+ACT-0027,INC-1025,Status changed: Submitted -> Under Review,23/09/2026 06:49 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0028,INC-1026,Status changed: Submitted -> Under Review,27/06/2026 02:08 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0029,INC-1026,Status changed: Under Review -> Closed,27/06/2026 03:38 PM,Synthetic closure recorded for demonstration.
+ACT-0030,INC-1028,Status changed: Submitted -> Under Review,16/05/2026 10:42 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0031,INC-1028,Status changed: Under Review -> Resolved,18/05/2026 08:25 AM,Synthetic resolution recorded for demonstration.
+ACT-0032,INC-1029,Status changed: Submitted -> Under Review,10/06/2026 08:59 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0033,INC-1029,Status changed: Under Review -> Resolved,11/06/2026 06:01 PM,Synthetic resolution recorded for demonstration.
+ACT-0034,INC-1030,Status changed: Submitted -> Under Review,16/05/2026 01:12 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0035,INC-1030,Status changed: Under Review -> Resolved,16/05/2026 09:53 PM,Synthetic resolution recorded for demonstration.
+ACT-0036,INC-1031,Status changed: Submitted -> Under Review,25/08/2026 08:28 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0037,INC-1031,Status changed: Under Review -> Resolved,26/08/2026 06:24 AM,Synthetic resolution recorded for demonstration.
+ACT-0038,INC-1032,Status changed: Submitted -> Under Review,24/06/2026 11:04 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0039,INC-1032,Status changed: Under Review -> Resolved,26/06/2026 06:51 AM,Synthetic resolution recorded for demonstration.
+ACT-0040,INC-1034,Status changed: Submitted -> Under Review,15/07/2026 03:14 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0041,INC-1034,Status changed: Under Review -> Closed,16/07/2026 12:10 AM,Synthetic closure recorded for demonstration.
+ACT-0042,INC-1035,Status changed: Submitted -> Under Review,10/09/2026 10:46 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0043,INC-1035,Status changed: Under Review -> Resolved,11/09/2026 06:30 PM,Synthetic resolution recorded for demonstration.
+ACT-0044,INC-1036,Status changed: Submitted -> Under Review,20/09/2026 11:11 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0045,INC-1037,Status changed: Submitted -> Under Review,04/09/2026 11:34 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0046,INC-1037,Status changed: Under Review -> Resolved,06/09/2026 06:13 AM,Synthetic resolution recorded for demonstration.
+ACT-0047,INC-1038,Status changed: Submitted -> Under Review,22/08/2026 10:20 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0048,INC-1038,Status changed: Under Review -> Resolved,23/08/2026 08:56 AM,Synthetic resolution recorded for demonstration.
+ACT-0049,INC-1040,Status changed: Submitted -> Under Review,14/06/2026 02:09 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0050,INC-1040,Status changed: Under Review -> Closed,15/06/2026 06:48 AM,Synthetic closure recorded for demonstration.
+ACT-0051,INC-1041,Status changed: Submitted -> Under Review,06/06/2026 01:59 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0052,INC-1041,Status changed: Under Review -> Resolved,06/06/2026 07:25 PM,Synthetic resolution recorded for demonstration.
+ACT-0053,INC-1042,Status changed: Submitted -> Under Review,05/06/2026 06:21 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0054,INC-1043,Status changed: Submitted -> Under Review,02/07/2026 07:36 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0055,INC-1044,Status changed: Submitted -> Under Review,01/10/2026 08:24 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0056,INC-1044,Status changed: Under Review -> Resolved,02/10/2026 02:43 PM,Synthetic resolution recorded for demonstration.
+ACT-0057,INC-1045,Status changed: Submitted -> Under Review,26/08/2026 08:06 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0058,INC-1045,Status changed: Under Review -> Resolved,27/08/2026 07:30 PM,Synthetic resolution recorded for demonstration.
+ACT-0059,INC-1046,Status changed: Submitted -> Under Review,20/07/2026 02:36 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0060,INC-1046,Status changed: Under Review -> Resolved,20/07/2026 04:33 PM,Synthetic resolution recorded for demonstration.
+ACT-0061,INC-1047,Status changed: Submitted -> Under Review,28/07/2026 01:11 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0062,INC-1047,Status changed: Under Review -> Resolved,29/07/2026 10:47 AM,Synthetic resolution recorded for demonstration.
+ACT-0063,INC-1048,Status changed: Submitted -> Under Review,08/07/2026 10:43 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0064,INC-1048,Status changed: Under Review -> Closed,09/07/2026 07:45 AM,Synthetic closure recorded for demonstration.
+ACT-0065,INC-1049,Status changed: Submitted -> Under Review,23/07/2026 12:45 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0066,INC-1049,Status changed: Under Review -> Resolved,24/07/2026 07:24 PM,Synthetic resolution recorded for demonstration.
+ACT-0067,INC-1051,Status changed: Submitted -> Under Review,29/06/2026 02:27 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0068,INC-1051,Status changed: Under Review -> Resolved,29/06/2026 04:32 PM,Synthetic resolution recorded for demonstration.
+ACT-0069,INC-1052,Status changed: Submitted -> Under Review,09/05/2026 03:40 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0070,INC-1055,Status changed: Submitted -> Under Review,29/05/2026 03:58 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0071,INC-1055,Status changed: Under Review -> Resolved,31/05/2026 02:55 AM,Synthetic resolution recorded for demonstration.
+ACT-0072,INC-1056,Status changed: Submitted -> Under Review,13/10/2026 12:00 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0073,INC-1058,Status changed: Submitted -> Under Review,19/06/2026 12:00 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0074,INC-1059,Status changed: Submitted -> Under Review,18/05/2026 11:46 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0075,INC-1059,Status changed: Under Review -> Resolved,18/05/2026 01:36 PM,Synthetic resolution recorded for demonstration.
+ACT-0076,INC-1060,Status changed: Submitted -> Under Review,06/08/2026 12:12 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0077,INC-1060,Status changed: Under Review -> Closed,07/08/2026 03:45 AM,Synthetic closure recorded for demonstration.
+ACT-0078,INC-1061,Status changed: Submitted -> Under Review,07/08/2026 03:09 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0079,INC-1061,Status changed: Under Review -> Resolved,08/08/2026 11:33 PM,Synthetic resolution recorded for demonstration.
+ACT-0080,INC-1063,Status changed: Submitted -> Under Review,31/05/2026 06:51 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0081,INC-1065,Status changed: Submitted -> Under Review,15/05/2026 04:11 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0082,INC-1065,Status changed: Under Review -> Resolved,15/05/2026 06:17 PM,Synthetic resolution recorded for demonstration.
+ACT-0083,INC-1067,Status changed: Submitted -> Under Review,01/10/2026 03:49 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0084,INC-1067,Status changed: Under Review -> Resolved,01/10/2026 11:41 AM,Synthetic resolution recorded for demonstration.
+ACT-0085,INC-1069,Status changed: Submitted -> Under Review,17/09/2026 01:42 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0086,INC-1069,Status changed: Under Review -> Resolved,17/09/2026 05:00 AM,Synthetic resolution recorded for demonstration.
+ACT-0087,INC-1070,Status changed: Submitted -> Under Review,16/08/2026 02:33 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0088,INC-1070,Status changed: Under Review -> Resolved,17/08/2026 08:38 AM,Synthetic resolution recorded for demonstration.
+ACT-0089,INC-1071,Status changed: Submitted -> Under Review,06/09/2026 12:39 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0090,INC-1071,Status changed: Under Review -> Resolved,07/09/2026 10:09 PM,Synthetic resolution recorded for demonstration.
+ACT-0091,INC-1072,Status changed: Submitted -> Under Review,29/07/2026 05:16 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0092,INC-1072,Status changed: Under Review -> Closed,29/07/2026 10:24 PM,Synthetic closure recorded for demonstration.
+ACT-0093,INC-1073,Status changed: Submitted -> Under Review,28/09/2026 11:20 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0094,INC-1073,Status changed: Under Review -> Closed,29/09/2026 02:18 AM,Synthetic closure recorded for demonstration.
+ACT-0095,INC-1074,Status changed: Submitted -> Under Review,13/07/2026 05:27 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0096,INC-1075,Status changed: Submitted -> Under Review,11/06/2026 05:33 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0097,INC-1075,Status changed: Under Review -> Resolved,11/06/2026 07:13 PM,Synthetic resolution recorded for demonstration.
+ACT-0098,INC-1076,Status changed: Submitted -> Under Review,01/07/2026 11:17 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0099,INC-1077,Status changed: Submitted -> Under Review,26/07/2026 07:48 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0100,INC-1079,Status changed: Submitted -> Under Review,25/09/2026 07:58 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0101,INC-1080,Status changed: Submitted -> Under Review,02/07/2026 10:57 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0102,INC-1081,Status changed: Submitted -> Under Review,30/06/2026 09:26 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0103,INC-1081,Status changed: Under Review -> Closed,02/07/2026 05:58 AM,Synthetic closure recorded for demonstration.
+ACT-0104,INC-1082,Status changed: Submitted -> Under Review,06/08/2026 10:54 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0105,INC-1083,Status changed: Submitted -> Under Review,08/08/2026 02:05 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0106,INC-1083,Status changed: Under Review -> Resolved,08/08/2026 07:31 PM,Synthetic resolution recorded for demonstration.
+ACT-0107,INC-1084,Status changed: Submitted -> Under Review,21/08/2026 11:36 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0108,INC-1084,Status changed: Under Review -> Resolved,22/08/2026 08:23 PM,Synthetic resolution recorded for demonstration.
+ACT-0109,INC-1085,Status changed: Submitted -> Under Review,03/07/2026 09:48 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0110,INC-1085,Status changed: Under Review -> Resolved,03/07/2026 03:50 PM,Synthetic resolution recorded for demonstration.
+ACT-0111,INC-1086,Status changed: Submitted -> Under Review,20/06/2026 12:39 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0112,INC-1086,Status changed: Under Review -> Resolved,20/06/2026 04:57 PM,Synthetic resolution recorded for demonstration.
+ACT-0113,INC-1087,Status changed: Submitted -> Under Review,20/09/2026 12:22 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0114,INC-1088,Status changed: Submitted -> Under Review,07/10/2026 03:55 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0115,INC-1088,Status changed: Under Review -> Closed,07/10/2026 08:29 PM,Synthetic closure recorded for demonstration.
+ACT-0116,INC-1089,Status changed: Submitted -> Under Review,07/06/2026 12:50 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0117,INC-1091,Status changed: Submitted -> Under Review,28/07/2026 10:02 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0118,INC-1091,Status changed: Under Review -> Resolved,28/07/2026 11:56 PM,Synthetic resolution recorded for demonstration.
+ACT-0119,INC-1092,Status changed: Submitted -> Under Review,25/08/2026 10:02 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0120,INC-1092,Status changed: Under Review -> Closed,27/08/2026 04:17 AM,Synthetic closure recorded for demonstration.
+ACT-0121,INC-1093,Status changed: Submitted -> Under Review,05/09/2026 01:51 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0122,INC-1094,Status changed: Submitted -> Under Review,08/07/2026 04:36 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0123,INC-1094,Status changed: Under Review -> Resolved,08/07/2026 11:06 PM,Synthetic resolution recorded for demonstration.
+ACT-0124,INC-1095,Status changed: Submitted -> Under Review,23/06/2026 04:22 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0125,INC-1095,Status changed: Under Review -> Closed,24/06/2026 09:04 PM,Synthetic closure recorded for demonstration.
+ACT-0126,INC-1096,Status changed: Submitted -> Under Review,15/05/2026 03:24 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0127,INC-1096,Status changed: Under Review -> Resolved,16/05/2026 12:50 AM,Synthetic resolution recorded for demonstration.
+ACT-0128,INC-1097,Status changed: Submitted -> Under Review,29/07/2026 07:33 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0129,INC-1097,Status changed: Under Review -> Resolved,29/07/2026 08:59 AM,Synthetic resolution recorded for demonstration.
+ACT-0130,INC-1098,Status changed: Submitted -> Under Review,23/05/2026 08:59 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0131,INC-1098,Status changed: Under Review -> Resolved,24/05/2026 05:24 PM,Synthetic resolution recorded for demonstration.
+ACT-0132,INC-1099,Status changed: Submitted -> Under Review,25/07/2026 11:35 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0133,INC-1100,Status changed: Submitted -> Under Review,27/09/2026 12:47 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0134,INC-1101,Status changed: Submitted -> Under Review,11/10/2026 11:06 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0135,INC-1101,Status changed: Under Review -> Resolved,13/10/2026 08:39 AM,Synthetic resolution recorded for demonstration.
+ACT-0136,INC-1103,Status changed: Submitted -> Under Review,24/08/2026 11:42 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0137,INC-1105,Status changed: Submitted -> Under Review,08/07/2026 11:46 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0138,INC-1106,Status changed: Submitted -> Under Review,10/09/2026 08:26 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0139,INC-1106,Status changed: Under Review -> Resolved,10/09/2026 02:24 PM,Synthetic resolution recorded for demonstration.
+ACT-0140,INC-1107,Status changed: Submitted -> Under Review,12/09/2026 09:46 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0141,INC-1107,Status changed: Under Review -> Resolved,12/09/2026 02:56 PM,Synthetic resolution recorded for demonstration.
+ACT-0142,INC-1108,Status changed: Submitted -> Under Review,05/09/2026 04:17 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0143,INC-1108,Status changed: Under Review -> Closed,05/09/2026 04:08 PM,Synthetic closure recorded for demonstration.
+ACT-0144,INC-1109,Status changed: Submitted -> Under Review,16/09/2026 12:47 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0145,INC-1111,Status changed: Submitted -> Under Review,02/09/2026 10:03 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0146,INC-1111,Status changed: Under Review -> Resolved,02/09/2026 11:11 AM,Synthetic resolution recorded for demonstration.
+ACT-0147,INC-1112,Status changed: Submitted -> Under Review,01/07/2026 04:09 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0148,INC-1112,Status changed: Under Review -> Resolved,01/07/2026 09:43 PM,Synthetic resolution recorded for demonstration.
+ACT-0149,INC-1113,Status changed: Submitted -> Under Review,02/07/2026 08:45 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0150,INC-1113,Status changed: Under Review -> Resolved,03/07/2026 05:24 PM,Synthetic resolution recorded for demonstration.
+ACT-0151,INC-1114,Status changed: Submitted -> Under Review,13/10/2026 12:00 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0152,INC-1114,Status changed: Under Review -> Resolved,13/10/2026 04:00 PM,Synthetic resolution recorded for demonstration.
+ACT-0153,INC-1115,Status changed: Submitted -> Under Review,03/10/2026 06:40 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0154,INC-1115,Status changed: Under Review -> Resolved,04/10/2026 01:47 AM,Synthetic resolution recorded for demonstration.
+ACT-0155,INC-1116,Status changed: Submitted -> Under Review,04/07/2026 12:39 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0156,INC-1116,Status changed: Under Review -> Closed,05/07/2026 01:08 AM,Synthetic closure recorded for demonstration.
+ACT-0157,INC-1117,Status changed: Submitted -> Under Review,13/06/2026 01:53 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0158,INC-1117,Status changed: Under Review -> Closed,14/06/2026 11:16 AM,Synthetic closure recorded for demonstration.
+ACT-0159,INC-1119,Status changed: Submitted -> Under Review,12/09/2026 05:25 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0160,INC-1120,Status changed: Submitted -> Under Review,25/06/2026 12:25 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0161,INC-1120,Status changed: Under Review -> Resolved,25/06/2026 04:52 PM,Synthetic resolution recorded for demonstration.
+ACT-0162,INC-1121,Status changed: Submitted -> Under Review,10/05/2026 01:49 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0163,INC-1121,Status changed: Under Review -> Resolved,11/05/2026 06:11 AM,Synthetic resolution recorded for demonstration.
+ACT-0164,INC-1122,Status changed: Submitted -> Under Review,31/05/2026 09:14 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0165,INC-1123,Status changed: Submitted -> Under Review,20/07/2026 12:07 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0166,INC-1125,Status changed: Submitted -> Under Review,17/06/2026 09:09 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0167,INC-1125,Status changed: Under Review -> Resolved,18/06/2026 10:08 AM,Synthetic resolution recorded for demonstration.
+ACT-0168,INC-1127,Status changed: Submitted -> Under Review,06/09/2026 01:08 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0169,INC-1127,Status changed: Under Review -> Closed,06/09/2026 06:19 PM,Synthetic closure recorded for demonstration.
+ACT-0170,INC-1128,Status changed: Submitted -> Under Review,13/10/2026 12:00 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0171,INC-1129,Status changed: Submitted -> Under Review,06/05/2026 06:54 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0172,INC-1129,Status changed: Under Review -> Resolved,06/05/2026 09:09 PM,Synthetic resolution recorded for demonstration.
+ACT-0173,INC-1130,Status changed: Submitted -> Under Review,08/05/2026 10:34 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0174,INC-1131,Status changed: Submitted -> Under Review,15/08/2026 10:42 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0175,INC-1131,Status changed: Under Review -> Resolved,16/08/2026 02:19 PM,Synthetic resolution recorded for demonstration.
+ACT-0176,INC-1132,Status changed: Submitted -> Under Review,23/09/2026 10:27 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0177,INC-1132,Status changed: Under Review -> Closed,25/09/2026 02:22 AM,Synthetic closure recorded for demonstration.
+ACT-0178,INC-1134,Status changed: Submitted -> Under Review,03/06/2026 04:05 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0179,INC-1135,Status changed: Submitted -> Under Review,01/07/2026 05:34 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0180,INC-1135,Status changed: Under Review -> Closed,02/07/2026 11:25 AM,Synthetic closure recorded for demonstration.
+ACT-0181,INC-1136,Status changed: Submitted -> Under Review,01/08/2026 06:06 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0182,INC-1136,Status changed: Under Review -> Resolved,02/08/2026 03:56 AM,Synthetic resolution recorded for demonstration.
+ACT-0183,INC-1138,Status changed: Submitted -> Under Review,24/05/2026 01:06 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0184,INC-1138,Status changed: Under Review -> Closed,24/05/2026 09:56 AM,Synthetic closure recorded for demonstration.
+ACT-0185,INC-1139,Status changed: Submitted -> Under Review,24/07/2026 08:04 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0186,INC-1139,Status changed: Under Review -> Resolved,25/07/2026 05:53 PM,Synthetic resolution recorded for demonstration.
+ACT-0187,INC-1141,Status changed: Submitted -> Under Review,16/07/2026 11:25 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0188,INC-1141,Status changed: Under Review -> Resolved,16/07/2026 01:42 PM,Synthetic resolution recorded for demonstration.
+ACT-0189,INC-1144,Status changed: Submitted -> Under Review,16/06/2026 07:52 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0190,INC-1146,Status changed: Submitted -> Under Review,11/09/2026 02:46 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0191,INC-1146,Status changed: Under Review -> Resolved,11/09/2026 10:50 AM,Synthetic resolution recorded for demonstration.
+ACT-0192,INC-1147,Status changed: Submitted -> Under Review,13/09/2026 05:02 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0193,INC-1148,Status changed: Submitted -> Under Review,05/05/2026 08:55 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0194,INC-1149,Status changed: Submitted -> Under Review,09/08/2026 03:29 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0195,INC-1149,Status changed: Under Review -> Resolved,10/08/2026 07:05 AM,Synthetic resolution recorded for demonstration.
+ACT-0196,INC-1150,Status changed: Submitted -> Under Review,28/07/2026 09:15 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0197,INC-1150,Status changed: Under Review -> Resolved,29/07/2026 05:36 AM,Synthetic resolution recorded for demonstration.
+ACT-0198,INC-1151,Status changed: Submitted -> Under Review,08/05/2026 03:46 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0199,INC-1151,Status changed: Under Review -> Resolved,09/05/2026 10:04 PM,Synthetic resolution recorded for demonstration.
+ACT-0200,INC-1152,Status changed: Submitted -> Under Review,21/06/2026 01:15 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0201,INC-1152,Status changed: Under Review -> Resolved,22/06/2026 01:13 AM,Synthetic resolution recorded for demonstration.
+ACT-0202,INC-1153,Status changed: Submitted -> Under Review,12/08/2026 03:43 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0203,INC-1154,Status changed: Submitted -> Under Review,26/05/2026 02:33 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0204,INC-1154,Status changed: Under Review -> Resolved,27/05/2026 12:46 PM,Synthetic resolution recorded for demonstration.
+ACT-0205,INC-1155,Status changed: Submitted -> Under Review,28/09/2026 06:36 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0206,INC-1155,Status changed: Under Review -> Resolved,29/09/2026 04:40 PM,Synthetic resolution recorded for demonstration.
+ACT-0207,INC-1158,Status changed: Submitted -> Under Review,02/09/2026 01:25 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0208,INC-1158,Status changed: Under Review -> Resolved,02/09/2026 02:46 PM,Synthetic resolution recorded for demonstration.
+ACT-0209,INC-1159,Status changed: Submitted -> Under Review,30/08/2026 01:51 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0210,INC-1159,Status changed: Under Review -> Closed,31/08/2026 12:47 PM,Synthetic closure recorded for demonstration.
+ACT-0211,INC-1160,Status changed: Submitted -> Under Review,07/09/2026 08:35 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0212,INC-1160,Status changed: Under Review -> Resolved,08/09/2026 10:32 PM,Synthetic resolution recorded for demonstration.
+ACT-0213,INC-1161,Status changed: Submitted -> Under Review,19/07/2026 12:34 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0214,INC-1161,Status changed: Under Review -> Resolved,19/07/2026 07:31 PM,Synthetic resolution recorded for demonstration.
+ACT-0215,INC-1163,Status changed: Submitted -> Under Review,27/08/2026 04:57 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0216,INC-1163,Status changed: Under Review -> Resolved,27/08/2026 11:14 AM,Synthetic resolution recorded for demonstration.
+ACT-0217,INC-1164,Status changed: Submitted -> Under Review,21/08/2026 03:42 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0218,INC-1164,Status changed: Under Review -> Resolved,22/08/2026 09:06 AM,Synthetic resolution recorded for demonstration.
+ACT-0219,INC-1165,Status changed: Submitted -> Under Review,08/05/2026 06:55 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0220,INC-1166,Status changed: Submitted -> Under Review,03/06/2026 01:14 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0221,INC-1166,Status changed: Under Review -> Resolved,04/06/2026 12:43 PM,Synthetic resolution recorded for demonstration.
+ACT-0222,INC-1167,Status changed: Submitted -> Under Review,29/08/2026 01:49 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0223,INC-1167,Status changed: Under Review -> Resolved,29/08/2026 05:17 PM,Synthetic resolution recorded for demonstration.
+ACT-0224,INC-1168,Status changed: Submitted -> Under Review,14/07/2026 06:18 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0225,INC-1168,Status changed: Under Review -> Resolved,15/07/2026 11:07 AM,Synthetic resolution recorded for demonstration.
+ACT-0226,INC-1169,Status changed: Submitted -> Under Review,09/10/2026 04:33 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0227,INC-1169,Status changed: Under Review -> Resolved,10/10/2026 12:17 PM,Synthetic resolution recorded for demonstration.
+ACT-0228,INC-1171,Status changed: Submitted -> Under Review,15/05/2026 07:12 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0229,INC-1171,Status changed: Under Review -> Resolved,15/05/2026 01:25 PM,Synthetic resolution recorded for demonstration.
+ACT-0230,INC-1172,Status changed: Submitted -> Under Review,27/06/2026 07:43 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0231,INC-1172,Status changed: Under Review -> Closed,27/06/2026 10:02 AM,Synthetic closure recorded for demonstration.
+ACT-0232,INC-1173,Status changed: Submitted -> Under Review,24/07/2026 07:53 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0233,INC-1174,Status changed: Submitted -> Under Review,25/05/2026 01:51 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0234,INC-1176,Status changed: Submitted -> Under Review,02/06/2026 05:42 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0235,INC-1177,Status changed: Submitted -> Under Review,15/05/2026 07:50 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0236,INC-1177,Status changed: Under Review -> Resolved,15/05/2026 09:27 AM,Synthetic resolution recorded for demonstration.
+ACT-0237,INC-1178,Status changed: Submitted -> Under Review,22/09/2026 08:58 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0238,INC-1179,Status changed: Submitted -> Under Review,14/07/2026 05:12 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0239,INC-1179,Status changed: Under Review -> Resolved,14/07/2026 08:40 PM,Synthetic resolution recorded for demonstration.
+ACT-0240,INC-1180,Status changed: Submitted -> Under Review,17/07/2026 12:00 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0241,INC-1180,Status changed: Under Review -> Resolved,18/07/2026 11:11 AM,Synthetic resolution recorded for demonstration.
+ACT-0242,INC-1181,Status changed: Submitted -> Under Review,14/05/2026 06:19 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0243,INC-1181,Status changed: Under Review -> Resolved,15/05/2026 07:15 AM,Synthetic resolution recorded for demonstration.
+ACT-0244,INC-1182,Status changed: Submitted -> Under Review,17/05/2026 12:11 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0245,INC-1182,Status changed: Under Review -> Resolved,18/05/2026 09:51 AM,Synthetic resolution recorded for demonstration.
+ACT-0246,INC-1183,Status changed: Submitted -> Under Review,11/10/2026 01:24 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0247,INC-1184,Status changed: Submitted -> Under Review,08/07/2026 06:35 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0248,INC-1185,Status changed: Submitted -> Under Review,09/06/2026 08:35 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0249,INC-1185,Status changed: Under Review -> Resolved,11/06/2026 02:28 AM,Synthetic resolution recorded for demonstration.
+ACT-0250,INC-1186,Status changed: Submitted -> Under Review,18/08/2026 06:02 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0251,INC-1187,Status changed: Submitted -> Under Review,16/09/2026 01:51 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0252,INC-1187,Status changed: Under Review -> Resolved,16/09/2026 06:15 AM,Synthetic resolution recorded for demonstration.
+ACT-0253,INC-1188,Status changed: Submitted -> Under Review,13/09/2026 09:59 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0254,INC-1188,Status changed: Under Review -> Closed,14/09/2026 04:23 PM,Synthetic closure recorded for demonstration.
+ACT-0255,INC-1189,Status changed: Submitted -> Under Review,12/05/2026 08:03 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0256,INC-1189,Status changed: Under Review -> Closed,13/05/2026 07:01 AM,Synthetic closure recorded for demonstration.
+ACT-0257,INC-1194,Status changed: Submitted -> Under Review,20/09/2026 01:32 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0258,INC-1195,Status changed: Submitted -> Under Review,20/08/2026 04:25 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0259,INC-1195,Status changed: Under Review -> Closed,21/08/2026 03:38 PM,Synthetic closure recorded for demonstration.
+ACT-0260,INC-1198,Status changed: Submitted -> Under Review,21/07/2026 12:41 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0261,INC-1198,Status changed: Under Review -> Resolved,21/07/2026 10:49 PM,Synthetic resolution recorded for demonstration.
+ACT-0262,INC-1199,Status changed: Submitted -> Under Review,31/07/2026 06:01 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0263,INC-1199,Status changed: Under Review -> Resolved,31/07/2026 03:19 PM,Synthetic resolution recorded for demonstration.
+ACT-0264,INC-1203,Status changed: Submitted -> Under Review,27/08/2026 09:24 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0265,INC-1203,Status changed: Under Review -> Resolved,27/08/2026 11:50 AM,Synthetic resolution recorded for demonstration.
+ACT-0266,INC-1204,Status changed: Submitted -> Under Review,15/05/2026 12:04 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0267,INC-1204,Status changed: Under Review -> Resolved,15/05/2026 02:38 AM,Synthetic resolution recorded for demonstration.
+ACT-0268,INC-1205,Status changed: Submitted -> Under Review,03/09/2026 11:40 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0269,INC-1205,Status changed: Under Review -> Resolved,05/09/2026 07:07 AM,Synthetic resolution recorded for demonstration.
+ACT-0270,INC-1206,Status changed: Submitted -> Under Review,15/09/2026 11:32 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0271,INC-1206,Status changed: Under Review -> Resolved,16/09/2026 11:36 PM,Synthetic resolution recorded for demonstration.
+ACT-0272,INC-1208,Status changed: Submitted -> Under Review,22/06/2026 10:19 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0273,INC-1209,Status changed: Submitted -> Under Review,25/08/2026 10:45 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0274,INC-1210,Status changed: Submitted -> Under Review,09/05/2026 12:02 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0275,INC-1210,Status changed: Under Review -> Resolved,09/05/2026 07:44 PM,Synthetic resolution recorded for demonstration.
+ACT-0276,INC-1211,Status changed: Submitted -> Under Review,28/08/2026 06:21 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0277,INC-1211,Status changed: Under Review -> Resolved,29/08/2026 12:54 PM,Synthetic resolution recorded for demonstration.
+ACT-0278,INC-1212,Status changed: Submitted -> Under Review,29/09/2026 09:25 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0279,INC-1213,Status changed: Submitted -> Under Review,18/07/2026 05:52 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0280,INC-1213,Status changed: Under Review -> Resolved,19/07/2026 12:58 AM,Synthetic resolution recorded for demonstration.
+ACT-0281,INC-1215,Status changed: Submitted -> Under Review,21/07/2026 05:20 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0282,INC-1216,Status changed: Submitted -> Under Review,30/08/2026 10:22 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0283,INC-1217,Status changed: Submitted -> Under Review,28/08/2026 04:40 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0284,INC-1218,Status changed: Submitted -> Under Review,09/07/2026 09:00 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0285,INC-1218,Status changed: Under Review -> Resolved,10/07/2026 05:53 PM,Synthetic resolution recorded for demonstration.
+ACT-0286,INC-1219,Status changed: Submitted -> Under Review,10/09/2026 03:38 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0287,INC-1219,Status changed: Under Review -> Resolved,11/09/2026 06:05 AM,Synthetic resolution recorded for demonstration.
+ACT-0288,INC-1221,Status changed: Submitted -> Under Review,25/07/2026 01:39 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0289,INC-1221,Status changed: Under Review -> Closed,26/07/2026 01:33 PM,Synthetic closure recorded for demonstration.
+ACT-0290,INC-1222,Status changed: Submitted -> Under Review,15/06/2026 03:14 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0291,INC-1222,Status changed: Under Review -> Closed,16/06/2026 03:06 AM,Synthetic closure recorded for demonstration.
+ACT-0292,INC-1223,Status changed: Submitted -> Under Review,19/08/2026 07:27 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0293,INC-1223,Status changed: Under Review -> Resolved,20/08/2026 09:04 AM,Synthetic resolution recorded for demonstration.
+ACT-0294,INC-1224,Status changed: Submitted -> Under Review,29/06/2026 11:57 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0295,INC-1225,Status changed: Submitted -> Under Review,18/09/2026 02:23 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0296,INC-1225,Status changed: Under Review -> Resolved,19/09/2026 04:48 PM,Synthetic resolution recorded for demonstration.
+ACT-0297,INC-1226,Status changed: Submitted -> Under Review,11/10/2026 06:07 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0298,INC-1226,Status changed: Under Review -> Closed,12/10/2026 12:48 PM,Synthetic closure recorded for demonstration.
+ACT-0299,INC-1227,Status changed: Submitted -> Under Review,09/09/2026 03:00 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0300,INC-1227,Status changed: Under Review -> Closed,09/09/2026 10:57 AM,Synthetic closure recorded for demonstration.
+ACT-0301,INC-1228,Status changed: Submitted -> Under Review,01/09/2026 01:25 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0302,INC-1231,Status changed: Submitted -> Under Review,06/07/2026 05:16 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0303,INC-1232,Status changed: Submitted -> Under Review,25/07/2026 12:47 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0304,INC-1233,Status changed: Submitted -> Under Review,27/09/2026 06:03 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0305,INC-1233,Status changed: Under Review -> Resolved,28/09/2026 01:58 PM,Synthetic resolution recorded for demonstration.
+ACT-0306,INC-1234,Status changed: Submitted -> Under Review,06/09/2026 04:59 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0307,INC-1235,Status changed: Submitted -> Under Review,09/07/2026 04:25 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0308,INC-1235,Status changed: Under Review -> Resolved,09/07/2026 06:06 PM,Synthetic resolution recorded for demonstration.
+ACT-0309,INC-1237,Status changed: Submitted -> Under Review,09/06/2026 11:56 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0310,INC-1238,Status changed: Submitted -> Under Review,09/07/2026 06:19 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0311,INC-1238,Status changed: Under Review -> Resolved,09/07/2026 02:53 PM,Synthetic resolution recorded for demonstration.
+ACT-0312,INC-1239,Status changed: Submitted -> Under Review,04/07/2026 06:00 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0313,INC-1239,Status changed: Under Review -> Resolved,05/07/2026 02:38 PM,Synthetic resolution recorded for demonstration.
+ACT-0314,INC-1240,Status changed: Submitted -> Under Review,01/09/2026 09:19 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0315,INC-1240,Status changed: Under Review -> Closed,03/09/2026 05:57 AM,Synthetic closure recorded for demonstration.
+ACT-0316,INC-1241,Status changed: Submitted -> Under Review,29/09/2026 09:57 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0317,INC-1241,Status changed: Under Review -> Resolved,01/10/2026 04:56 AM,Synthetic resolution recorded for demonstration.
+ACT-0318,INC-1243,Status changed: Submitted -> Under Review,02/06/2026 05:08 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0319,INC-1243,Status changed: Under Review -> Resolved,04/06/2026 04:28 AM,Synthetic resolution recorded for demonstration.
+ACT-0320,INC-1244,Status changed: Submitted -> Under Review,08/10/2026 10:50 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0321,INC-1244,Status changed: Under Review -> Resolved,09/10/2026 02:21 PM,Synthetic resolution recorded for demonstration.
+ACT-0322,INC-1245,Status changed: Submitted -> Under Review,10/10/2026 01:37 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0323,INC-1245,Status changed: Under Review -> Resolved,10/10/2026 06:49 AM,Synthetic resolution recorded for demonstration.
+ACT-0324,INC-1246,Status changed: Submitted -> Under Review,11/05/2026 02:01 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0325,INC-1246,Status changed: Under Review -> Resolved,12/05/2026 04:37 PM,Synthetic resolution recorded for demonstration.
+ACT-0326,INC-1247,Status changed: Submitted -> Under Review,16/07/2026 11:55 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0327,INC-1247,Status changed: Under Review -> Resolved,17/07/2026 12:36 PM,Synthetic resolution recorded for demonstration.
+ACT-0328,INC-1248,Status changed: Submitted -> Under Review,16/08/2026 11:08 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0329,INC-1248,Status changed: Under Review -> Closed,18/08/2026 04:35 AM,Synthetic closure recorded for demonstration.
+ACT-0330,INC-1253,Status changed: Submitted -> Under Review,19/06/2026 12:01 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0331,INC-1253,Status changed: Under Review -> Resolved,20/06/2026 09:07 AM,Synthetic resolution recorded for demonstration.
+ACT-0332,INC-1254,Status changed: Submitted -> Under Review,11/09/2026 08:07 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0333,INC-1254,Status changed: Under Review -> Resolved,12/09/2026 01:46 PM,Synthetic resolution recorded for demonstration.
+ACT-0334,INC-1255,Status changed: Submitted -> Under Review,14/05/2026 02:56 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0335,INC-1256,Status changed: Submitted -> Under Review,03/06/2026 03:35 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0336,INC-1257,Status changed: Submitted -> Under Review,16/05/2026 11:39 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0337,INC-1258,Status changed: Submitted -> Under Review,07/09/2026 04:46 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0338,INC-1258,Status changed: Under Review -> Resolved,08/09/2026 07:00 PM,Synthetic resolution recorded for demonstration.
+ACT-0339,INC-1259,Status changed: Submitted -> Under Review,19/05/2026 08:27 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0340,INC-1260,Status changed: Submitted -> Under Review,09/05/2026 07:31 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0341,INC-1260,Status changed: Under Review -> Resolved,09/05/2026 09:58 PM,Synthetic resolution recorded for demonstration.
+ACT-0342,INC-1261,Status changed: Submitted -> Under Review,20/06/2026 08:29 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0343,INC-1262,Status changed: Submitted -> Under Review,12/08/2026 12:20 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0344,INC-1262,Status changed: Under Review -> Resolved,13/08/2026 02:08 PM,Synthetic resolution recorded for demonstration.
+ACT-0345,INC-1263,Status changed: Submitted -> Under Review,25/07/2026 09:10 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0346,INC-1263,Status changed: Under Review -> Resolved,26/07/2026 02:10 PM,Synthetic resolution recorded for demonstration.
+ACT-0347,INC-1264,Status changed: Submitted -> Under Review,03/06/2026 04:26 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0348,INC-1264,Status changed: Under Review -> Resolved,05/06/2026 02:17 AM,Synthetic resolution recorded for demonstration.
+ACT-0349,INC-1265,Status changed: Submitted -> Under Review,03/08/2026 04:00 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0350,INC-1268,Status changed: Submitted -> Under Review,15/07/2026 08:16 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0351,INC-1268,Status changed: Under Review -> Resolved,17/07/2026 12:50 AM,Synthetic resolution recorded for demonstration.
+ACT-0352,INC-1269,Status changed: Submitted -> Under Review,08/05/2026 02:45 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0353,INC-1269,Status changed: Under Review -> Resolved,08/05/2026 10:33 AM,Synthetic resolution recorded for demonstration.
+ACT-0354,INC-1270,Status changed: Submitted -> Under Review,14/08/2026 09:46 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0355,INC-1271,Status changed: Submitted -> Under Review,17/07/2026 03:44 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0356,INC-1273,Status changed: Submitted -> Under Review,19/09/2026 08:07 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0357,INC-1273,Status changed: Under Review -> Resolved,19/09/2026 11:31 AM,Synthetic resolution recorded for demonstration.
+ACT-0358,INC-1274,Status changed: Submitted -> Under Review,15/06/2026 10:55 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0359,INC-1274,Status changed: Under Review -> Closed,16/06/2026 01:39 AM,Synthetic closure recorded for demonstration.
+ACT-0360,INC-1275,Status changed: Submitted -> Under Review,08/06/2026 09:41 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0361,INC-1275,Status changed: Under Review -> Resolved,09/06/2026 06:36 AM,Synthetic resolution recorded for demonstration.
+ACT-0362,INC-1276,Status changed: Submitted -> Under Review,23/08/2026 07:52 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0363,INC-1277,Status changed: Submitted -> Under Review,22/09/2026 10:40 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0364,INC-1279,Status changed: Submitted -> Under Review,05/10/2026 09:16 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0365,INC-1282,Status changed: Submitted -> Under Review,04/07/2026 07:04 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0366,INC-1283,Status changed: Submitted -> Under Review,12/08/2026 11:00 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0367,INC-1283,Status changed: Under Review -> Resolved,13/08/2026 12:20 AM,Synthetic resolution recorded for demonstration.
+ACT-0368,INC-1284,Status changed: Submitted -> Under Review,25/07/2026 04:38 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0369,INC-1284,Status changed: Under Review -> Closed,25/07/2026 04:42 PM,Synthetic closure recorded for demonstration.
+ACT-0370,INC-1286,Status changed: Submitted -> Under Review,28/06/2026 03:11 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0371,INC-1287,Status changed: Submitted -> Under Review,02/09/2026 04:24 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0372,INC-1288,Status changed: Submitted -> Under Review,07/10/2026 09:08 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0373,INC-1288,Status changed: Under Review -> Resolved,08/10/2026 06:08 PM,Synthetic resolution recorded for demonstration.
+ACT-0374,INC-1289,Status changed: Submitted -> Under Review,31/08/2026 11:11 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0375,INC-1289,Status changed: Under Review -> Closed,01/09/2026 09:12 PM,Synthetic closure recorded for demonstration.
+ACT-0376,INC-1290,Status changed: Submitted -> Under Review,24/08/2026 06:00 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0377,INC-1291,Status changed: Submitted -> Under Review,28/08/2026 02:28 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0378,INC-1291,Status changed: Under Review -> Resolved,29/08/2026 10:51 AM,Synthetic resolution recorded for demonstration.
+ACT-0379,INC-1292,Status changed: Submitted -> Under Review,12/10/2026 06:11 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0380,INC-1293,Status changed: Submitted -> Under Review,04/06/2026 07:24 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0381,INC-1294,Status changed: Submitted -> Under Review,12/08/2026 10:06 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0382,INC-1294,Status changed: Under Review -> Closed,12/08/2026 04:24 PM,Synthetic closure recorded for demonstration.
+ACT-0383,INC-1296,Status changed: Submitted -> Under Review,29/09/2026 02:25 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0384,INC-1297,Status changed: Submitted -> Under Review,25/08/2026 12:16 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0385,INC-1297,Status changed: Under Review -> Resolved,26/08/2026 12:18 PM,Synthetic resolution recorded for demonstration.
+ACT-0386,INC-1298,Status changed: Submitted -> Under Review,07/08/2026 02:13 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0387,INC-1298,Status changed: Under Review -> Closed,08/08/2026 12:00 AM,Synthetic closure recorded for demonstration.
+ACT-0388,INC-1299,Status changed: Submitted -> Under Review,10/07/2026 09:09 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0389,INC-1300,Status changed: Submitted -> Under Review,18/05/2026 02:17 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0390,INC-1300,Status changed: Under Review -> Resolved,19/05/2026 02:00 PM,Synthetic resolution recorded for demonstration.
+ACT-0391,INC-1301,Status changed: Submitted -> Under Review,20/08/2026 01:23 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0392,INC-1302,Status changed: Submitted -> Under Review,06/09/2026 07:57 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0393,INC-1304,Status changed: Submitted -> Under Review,08/10/2026 02:33 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0394,INC-1305,Status changed: Submitted -> Under Review,07/09/2026 05:10 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0395,INC-1307,Status changed: Submitted -> Under Review,05/07/2026 08:50 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0396,INC-1307,Status changed: Under Review -> Resolved,06/07/2026 06:44 AM,Synthetic resolution recorded for demonstration.
+ACT-0397,INC-1308,Status changed: Submitted -> Under Review,25/07/2026 11:28 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0398,INC-1308,Status changed: Under Review -> Closed,27/07/2026 09:23 AM,Synthetic closure recorded for demonstration.
+ACT-0399,INC-1309,Status changed: Submitted -> Under Review,30/06/2026 07:43 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0400,INC-1310,Status changed: Submitted -> Under Review,01/06/2026 01:14 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0401,INC-1311,Status changed: Submitted -> Under Review,19/09/2026 08:18 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0402,INC-1311,Status changed: Under Review -> Resolved,20/09/2026 03:33 AM,Synthetic resolution recorded for demonstration.
+ACT-0403,INC-1312,Status changed: Submitted -> Under Review,17/08/2026 01:44 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0404,INC-1313,Status changed: Submitted -> Under Review,24/08/2026 07:44 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0405,INC-1313,Status changed: Under Review -> Resolved,25/08/2026 11:09 AM,Synthetic resolution recorded for demonstration.
+ACT-0406,INC-1315,Status changed: Submitted -> Under Review,12/07/2026 05:12 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0407,INC-1315,Status changed: Under Review -> Resolved,13/07/2026 05:38 PM,Synthetic resolution recorded for demonstration.
+ACT-0408,INC-1316,Status changed: Submitted -> Under Review,06/06/2026 09:17 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0409,INC-1316,Status changed: Under Review -> Resolved,06/06/2026 09:16 PM,Synthetic resolution recorded for demonstration.
+ACT-0410,INC-1317,Status changed: Submitted -> Under Review,18/09/2026 10:57 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0411,INC-1317,Status changed: Under Review -> Closed,19/09/2026 03:32 PM,Synthetic closure recorded for demonstration.
+ACT-0412,INC-1318,Status changed: Submitted -> Under Review,16/05/2026 01:45 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0413,INC-1319,Status changed: Submitted -> Under Review,30/09/2026 12:09 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0414,INC-1319,Status changed: Under Review -> Resolved,30/09/2026 05:48 PM,Synthetic resolution recorded for demonstration.
+ACT-0415,INC-1320,Status changed: Submitted -> Under Review,23/07/2026 05:43 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0416,INC-1320,Status changed: Under Review -> Closed,23/07/2026 06:23 AM,Synthetic closure recorded for demonstration.
+ACT-0417,INC-1321,Status changed: Submitted -> Under Review,03/10/2026 04:47 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0418,INC-1321,Status changed: Under Review -> Resolved,04/10/2026 08:26 AM,Synthetic resolution recorded for demonstration.
+ACT-0419,INC-1322,Status changed: Submitted -> Under Review,28/07/2026 09:29 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0420,INC-1322,Status changed: Under Review -> Resolved,29/07/2026 07:06 PM,Synthetic resolution recorded for demonstration.
+ACT-0421,INC-1324,Status changed: Submitted -> Under Review,29/07/2026 11:58 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0422,INC-1324,Status changed: Under Review -> Closed,30/07/2026 07:10 AM,Synthetic closure recorded for demonstration.
+ACT-0423,INC-1326,Status changed: Submitted -> Under Review,03/09/2026 10:40 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0424,INC-1326,Status changed: Under Review -> Resolved,04/09/2026 07:43 PM,Synthetic resolution recorded for demonstration.
+ACT-0425,INC-1327,Status changed: Submitted -> Under Review,31/05/2026 07:49 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0426,INC-1330,Status changed: Submitted -> Under Review,18/05/2026 07:30 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0427,INC-1330,Status changed: Under Review -> Resolved,20/05/2026 02:12 AM,Synthetic resolution recorded for demonstration.
+ACT-0428,INC-1331,Status changed: Submitted -> Under Review,22/05/2026 02:02 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0429,INC-1332,Status changed: Submitted -> Under Review,05/10/2026 06:43 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0430,INC-1332,Status changed: Under Review -> Resolved,05/10/2026 09:02 PM,Synthetic resolution recorded for demonstration.
+ACT-0431,INC-1334,Status changed: Submitted -> Under Review,09/08/2026 11:34 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0432,INC-1334,Status changed: Under Review -> Closed,10/08/2026 09:40 AM,Synthetic closure recorded for demonstration.
+ACT-0433,INC-1336,Status changed: Submitted -> Under Review,02/10/2026 09:20 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0434,INC-1336,Status changed: Under Review -> Closed,03/10/2026 05:23 AM,Synthetic closure recorded for demonstration.
+ACT-0435,INC-1337,Status changed: Submitted -> Under Review,05/09/2026 03:59 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0436,INC-1337,Status changed: Under Review -> Resolved,05/09/2026 02:54 PM,Synthetic resolution recorded for demonstration.
+ACT-0437,INC-1338,Status changed: Submitted -> Under Review,22/05/2026 06:12 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0438,INC-1338,Status changed: Under Review -> Resolved,22/05/2026 11:12 AM,Synthetic resolution recorded for demonstration.
+ACT-0439,INC-1339,Status changed: Submitted -> Under Review,18/09/2026 07:35 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0440,INC-1339,Status changed: Under Review -> Closed,18/09/2026 11:50 AM,Synthetic closure recorded for demonstration.
+ACT-0441,INC-1341,Status changed: Submitted -> Under Review,05/06/2026 12:44 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0442,INC-1343,Status changed: Submitted -> Under Review,27/06/2026 04:41 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0443,INC-1345,Status changed: Submitted -> Under Review,12/09/2026 09:20 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0444,INC-1345,Status changed: Under Review -> Closed,13/09/2026 06:02 PM,Synthetic closure recorded for demonstration.
+ACT-0445,INC-1346,Status changed: Submitted -> Under Review,14/07/2026 04:09 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0446,INC-1346,Status changed: Under Review -> Resolved,15/07/2026 02:37 PM,Synthetic resolution recorded for demonstration.
+ACT-0447,INC-1348,Status changed: Submitted -> Under Review,09/06/2026 01:35 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0448,INC-1348,Status changed: Under Review -> Closed,10/06/2026 12:25 AM,Synthetic closure recorded for demonstration.
+ACT-0449,INC-1349,Status changed: Submitted -> Under Review,21/05/2026 07:43 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0450,INC-1350,Status changed: Submitted -> Under Review,03/08/2026 03:22 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0451,INC-1350,Status changed: Under Review -> Resolved,03/08/2026 02:08 PM,Synthetic resolution recorded for demonstration.
+ACT-0452,INC-1354,Status changed: Submitted -> Under Review,13/08/2026 03:56 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0453,INC-1354,Status changed: Under Review -> Resolved,14/08/2026 07:21 PM,Synthetic resolution recorded for demonstration.
+ACT-0454,INC-1355,Status changed: Submitted -> Under Review,28/08/2026 09:50 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0455,INC-1356,Status changed: Submitted -> Under Review,19/09/2026 02:06 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0456,INC-1356,Status changed: Under Review -> Closed,19/09/2026 10:02 AM,Synthetic closure recorded for demonstration.
+ACT-0457,INC-1357,Status changed: Submitted -> Under Review,04/06/2026 07:41 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0458,INC-1358,Status changed: Submitted -> Under Review,03/07/2026 08:09 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0459,INC-1359,Status changed: Submitted -> Under Review,15/06/2026 05:59 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0460,INC-1360,Status changed: Submitted -> Under Review,14/09/2026 10:02 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0461,INC-1360,Status changed: Under Review -> Closed,15/09/2026 03:35 AM,Synthetic closure recorded for demonstration.
+ACT-0462,INC-1361,Status changed: Submitted -> Under Review,23/05/2026 02:57 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0463,INC-1361,Status changed: Under Review -> Resolved,23/05/2026 04:58 PM,Synthetic resolution recorded for demonstration.
+ACT-0464,INC-1362,Status changed: Submitted -> Under Review,15/07/2026 04:49 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0465,INC-1362,Status changed: Under Review -> Closed,15/07/2026 09:43 PM,Synthetic closure recorded for demonstration.
+ACT-0466,INC-1363,Status changed: Submitted -> Under Review,12/06/2026 02:31 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0467,INC-1363,Status changed: Under Review -> Resolved,12/06/2026 05:55 AM,Synthetic resolution recorded for demonstration.
+ACT-0468,INC-1366,Status changed: Submitted -> Under Review,02/09/2026 09:14 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0469,INC-1367,Status changed: Submitted -> Under Review,17/07/2026 06:52 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0470,INC-1367,Status changed: Under Review -> Resolved,18/07/2026 09:28 PM,Synthetic resolution recorded for demonstration.
+ACT-0471,INC-1368,Status changed: Submitted -> Under Review,05/08/2026 01:50 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0472,INC-1369,Status changed: Submitted -> Under Review,06/07/2026 06:47 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0473,INC-1369,Status changed: Under Review -> Resolved,07/07/2026 07:41 PM,Synthetic resolution recorded for demonstration.
+ACT-0474,INC-1370,Status changed: Submitted -> Under Review,04/06/2026 11:27 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0475,INC-1370,Status changed: Under Review -> Closed,06/06/2026 02:27 AM,Synthetic closure recorded for demonstration.
+ACT-0476,INC-1371,Status changed: Submitted -> Under Review,13/07/2026 10:28 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0477,INC-1372,Status changed: Submitted -> Under Review,11/05/2026 09:02 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0478,INC-1372,Status changed: Under Review -> Closed,12/05/2026 06:37 AM,Synthetic closure recorded for demonstration.
+ACT-0479,INC-1373,Status changed: Submitted -> Under Review,08/06/2026 09:22 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0480,INC-1373,Status changed: Under Review -> Resolved,08/06/2026 11:37 PM,Synthetic resolution recorded for demonstration.
+ACT-0481,INC-1375,Status changed: Submitted -> Under Review,20/09/2026 01:54 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0482,INC-1375,Status changed: Under Review -> Closed,21/09/2026 05:24 AM,Synthetic closure recorded for demonstration.
+ACT-0483,INC-1376,Status changed: Submitted -> Under Review,27/08/2026 11:56 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0484,INC-1376,Status changed: Under Review -> Closed,28/08/2026 10:05 PM,Synthetic closure recorded for demonstration.
+ACT-0485,INC-1377,Status changed: Submitted -> Under Review,07/06/2026 04:23 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0486,INC-1378,Status changed: Submitted -> Under Review,17/07/2026 10:41 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0487,INC-1378,Status changed: Under Review -> Closed,18/07/2026 01:23 AM,Synthetic closure recorded for demonstration.
+ACT-0488,INC-1379,Status changed: Submitted -> Under Review,09/06/2026 02:44 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0489,INC-1379,Status changed: Under Review -> Resolved,10/06/2026 01:50 AM,Synthetic resolution recorded for demonstration.
+ACT-0490,INC-1380,Status changed: Submitted -> Under Review,20/06/2026 08:12 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0491,INC-1380,Status changed: Under Review -> Resolved,20/06/2026 09:28 PM,Synthetic resolution recorded for demonstration.
+ACT-0492,INC-1382,Status changed: Submitted -> Under Review,29/07/2026 12:27 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0493,INC-1383,Status changed: Submitted -> Under Review,24/05/2026 06:17 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0494,INC-1385,Status changed: Submitted -> Under Review,17/07/2026 03:17 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0495,INC-1387,Status changed: Submitted -> Under Review,09/07/2026 12:40 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0496,INC-1387,Status changed: Under Review -> Resolved,10/07/2026 08:23 AM,Synthetic resolution recorded for demonstration.
+ACT-0497,INC-1390,Status changed: Submitted -> Under Review,07/06/2026 10:06 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0498,INC-1390,Status changed: Under Review -> Resolved,08/06/2026 04:41 PM,Synthetic resolution recorded for demonstration.
+ACT-0499,INC-1391,Status changed: Submitted -> Under Review,07/09/2026 05:54 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0500,INC-1392,Status changed: Submitted -> Under Review,02/08/2026 09:45 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0501,INC-1392,Status changed: Under Review -> Resolved,03/08/2026 09:43 PM,Synthetic resolution recorded for demonstration.
+ACT-0502,INC-1393,Status changed: Submitted -> Under Review,30/09/2026 04:49 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0503,INC-1394,Status changed: Submitted -> Under Review,05/08/2026 11:41 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0504,INC-1394,Status changed: Under Review -> Closed,07/08/2026 11:27 AM,Synthetic closure recorded for demonstration.
+ACT-0505,INC-1395,Status changed: Submitted -> Under Review,07/10/2026 09:24 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0506,INC-1397,Status changed: Submitted -> Under Review,29/08/2026 11:23 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0507,INC-1398,Status changed: Submitted -> Under Review,08/07/2026 04:06 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0508,INC-1398,Status changed: Under Review -> Resolved,09/07/2026 09:14 AM,Synthetic resolution recorded for demonstration.
+ACT-0509,INC-1400,Status changed: Submitted -> Under Review,22/08/2026 05:00 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0510,INC-1400,Status changed: Under Review -> Closed,24/08/2026 02:38 AM,Synthetic closure recorded for demonstration.
+ACT-0511,INC-1401,Status changed: Submitted -> Under Review,23/08/2026 01:02 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0512,INC-1401,Status changed: Under Review -> Resolved,24/08/2026 04:33 PM,Synthetic resolution recorded for demonstration.
+ACT-0513,INC-1403,Status changed: Submitted -> Under Review,04/07/2026 02:12 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0514,INC-1403,Status changed: Under Review -> Closed,05/07/2026 08:56 PM,Synthetic closure recorded for demonstration.
+ACT-0515,INC-1406,Status changed: Submitted -> Under Review,17/05/2026 02:13 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0516,INC-1406,Status changed: Under Review -> Closed,18/05/2026 03:52 AM,Synthetic closure recorded for demonstration.
+ACT-0517,INC-1407,Status changed: Submitted -> Under Review,13/06/2026 09:10 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0518,INC-1407,Status changed: Under Review -> Resolved,14/06/2026 05:21 PM,Synthetic resolution recorded for demonstration.
+ACT-0519,INC-1408,Status changed: Submitted -> Under Review,06/09/2026 09:51 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0520,INC-1409,Status changed: Submitted -> Under Review,19/08/2026 11:51 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0521,INC-1409,Status changed: Under Review -> Resolved,20/08/2026 02:44 PM,Synthetic resolution recorded for demonstration.
+ACT-0522,INC-1410,Status changed: Submitted -> Under Review,05/06/2026 06:09 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0523,INC-1412,Status changed: Submitted -> Under Review,08/09/2026 06:28 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0524,INC-1412,Status changed: Under Review -> Closed,09/09/2026 08:40 AM,Synthetic closure recorded for demonstration.
+ACT-0525,INC-1413,Status changed: Submitted -> Under Review,11/07/2026 08:40 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0526,INC-1413,Status changed: Under Review -> Resolved,11/07/2026 09:40 AM,Synthetic resolution recorded for demonstration.
+ACT-0527,INC-1415,Status changed: Submitted -> Under Review,06/09/2026 04:12 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0528,INC-1415,Status changed: Under Review -> Resolved,07/09/2026 04:00 PM,Synthetic resolution recorded for demonstration.
+ACT-0529,INC-1416,Status changed: Submitted -> Under Review,17/05/2026 05:54 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0530,INC-1416,Status changed: Under Review -> Resolved,18/05/2026 04:21 PM,Synthetic resolution recorded for demonstration.
+ACT-0531,INC-1417,Status changed: Submitted -> Under Review,24/06/2026 05:00 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0532,INC-1417,Status changed: Under Review -> Closed,25/06/2026 08:40 AM,Synthetic closure recorded for demonstration.
+ACT-0533,INC-1418,Status changed: Submitted -> Under Review,16/09/2026 11:56 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0534,INC-1418,Status changed: Under Review -> Resolved,17/09/2026 12:47 AM,Synthetic resolution recorded for demonstration.
+ACT-0535,INC-1419,Status changed: Submitted -> Under Review,25/05/2026 04:06 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0536,INC-1419,Status changed: Under Review -> Closed,25/05/2026 10:41 AM,Synthetic closure recorded for demonstration.
+ACT-0537,INC-1420,Status changed: Submitted -> Under Review,18/06/2026 04:19 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0538,INC-1421,Status changed: Submitted -> Under Review,30/06/2026 03:48 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0539,INC-1421,Status changed: Under Review -> Resolved,02/07/2026 12:32 AM,Synthetic resolution recorded for demonstration.
+ACT-0540,INC-1422,Status changed: Submitted -> Under Review,09/08/2026 10:20 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0541,INC-1422,Status changed: Under Review -> Closed,10/08/2026 12:30 PM,Synthetic closure recorded for demonstration.
+ACT-0542,INC-1423,Status changed: Submitted -> Under Review,10/07/2026 03:03 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0543,INC-1424,Status changed: Submitted -> Under Review,07/08/2026 12:22 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0544,INC-1425,Status changed: Submitted -> Under Review,25/08/2026 09:46 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0545,INC-1425,Status changed: Under Review -> Resolved,26/08/2026 03:33 PM,Synthetic resolution recorded for demonstration.
+ACT-0546,INC-1426,Status changed: Submitted -> Under Review,18/07/2026 07:58 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0547,INC-1426,Status changed: Under Review -> Closed,18/07/2026 09:41 AM,Synthetic closure recorded for demonstration.
+ACT-0548,INC-1427,Status changed: Submitted -> Under Review,13/09/2026 08:38 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0549,INC-1428,Status changed: Submitted -> Under Review,11/08/2026 07:00 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0550,INC-1429,Status changed: Submitted -> Under Review,14/08/2026 03:59 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0551,INC-1429,Status changed: Under Review -> Closed,15/08/2026 03:44 AM,Synthetic closure recorded for demonstration.
+ACT-0552,INC-1430,Status changed: Submitted -> Under Review,10/10/2026 11:14 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0553,INC-1430,Status changed: Under Review -> Resolved,10/10/2026 11:16 PM,Synthetic resolution recorded for demonstration.
+ACT-0554,INC-1431,Status changed: Submitted -> Under Review,14/07/2026 04:20 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0555,INC-1431,Status changed: Under Review -> Resolved,14/07/2026 08:06 PM,Synthetic resolution recorded for demonstration.
+ACT-0556,INC-1433,Status changed: Submitted -> Under Review,06/08/2026 08:38 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0557,INC-1435,Status changed: Submitted -> Under Review,27/05/2026 07:01 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0558,INC-1435,Status changed: Under Review -> Resolved,28/05/2026 07:57 PM,Synthetic resolution recorded for demonstration.
+ACT-0559,INC-1436,Status changed: Submitted -> Under Review,30/06/2026 05:12 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0560,INC-1438,Status changed: Submitted -> Under Review,03/10/2026 11:27 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0561,INC-1439,Status changed: Submitted -> Under Review,03/08/2026 05:20 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0562,INC-1442,Status changed: Submitted -> Under Review,10/06/2026 01:35 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0563,INC-1442,Status changed: Under Review -> Resolved,10/06/2026 01:28 PM,Synthetic resolution recorded for demonstration.
+ACT-0564,INC-1443,Status changed: Submitted -> Under Review,31/05/2026 11:04 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0565,INC-1444,Status changed: Submitted -> Under Review,08/10/2026 12:22 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0566,INC-1444,Status changed: Under Review -> Resolved,09/10/2026 10:11 PM,Synthetic resolution recorded for demonstration.
+ACT-0567,INC-1445,Status changed: Submitted -> Under Review,24/07/2026 08:39 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0568,INC-1445,Status changed: Under Review -> Closed,25/07/2026 12:26 PM,Synthetic closure recorded for demonstration.
+ACT-0569,INC-1446,Status changed: Submitted -> Under Review,12/09/2026 07:10 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0570,INC-1447,Status changed: Submitted -> Under Review,10/07/2026 03:36 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0571,INC-1447,Status changed: Under Review -> Closed,10/07/2026 04:53 PM,Synthetic closure recorded for demonstration.
+ACT-0572,INC-1449,Status changed: Submitted -> Under Review,06/07/2026 06:52 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0573,INC-1449,Status changed: Under Review -> Resolved,06/07/2026 12:44 PM,Synthetic resolution recorded for demonstration.
+ACT-0574,INC-1453,Status changed: Submitted -> Under Review,11/07/2026 06:01 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0575,INC-1453,Status changed: Under Review -> Resolved,12/07/2026 02:48 PM,Synthetic resolution recorded for demonstration.
+ACT-0576,INC-1454,Status changed: Submitted -> Under Review,21/09/2026 10:21 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0577,INC-1455,Status changed: Submitted -> Under Review,14/08/2026 12:30 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0578,INC-1455,Status changed: Under Review -> Resolved,14/08/2026 06:21 PM,Synthetic resolution recorded for demonstration.
+ACT-0579,INC-1458,Status changed: Submitted -> Under Review,02/08/2026 05:55 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0580,INC-1458,Status changed: Under Review -> Resolved,03/08/2026 11:57 PM,Synthetic resolution recorded for demonstration.
+ACT-0581,INC-1459,Status changed: Submitted -> Under Review,12/08/2026 04:01 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0582,INC-1459,Status changed: Under Review -> Resolved,13/08/2026 02:29 AM,Synthetic resolution recorded for demonstration.
+ACT-0583,INC-1460,Status changed: Submitted -> Under Review,25/07/2026 10:36 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0584,INC-1460,Status changed: Under Review -> Closed,26/07/2026 08:12 AM,Synthetic closure recorded for demonstration.
+ACT-0585,INC-1461,Status changed: Submitted -> Under Review,01/06/2026 06:19 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0586,INC-1461,Status changed: Under Review -> Resolved,02/06/2026 09:39 AM,Synthetic resolution recorded for demonstration.
+ACT-0587,INC-1462,Status changed: Submitted -> Under Review,15/06/2026 12:17 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0588,INC-1462,Status changed: Under Review -> Closed,16/06/2026 10:47 AM,Synthetic closure recorded for demonstration.
+ACT-0589,INC-1463,Status changed: Submitted -> Under Review,21/09/2026 05:05 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0590,INC-1463,Status changed: Under Review -> Resolved,22/09/2026 01:06 AM,Synthetic resolution recorded for demonstration.
+ACT-0591,INC-1466,Status changed: Submitted -> Under Review,13/06/2026 02:35 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0592,INC-1466,Status changed: Under Review -> Closed,14/06/2026 05:37 PM,Synthetic closure recorded for demonstration.
+ACT-0593,INC-1469,Status changed: Submitted -> Under Review,14/06/2026 11:12 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0594,INC-1469,Status changed: Under Review -> Closed,15/06/2026 01:06 AM,Synthetic closure recorded for demonstration.
+ACT-0595,INC-1472,Status changed: Submitted -> Under Review,23/06/2026 12:30 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0596,INC-1472,Status changed: Under Review -> Closed,23/06/2026 09:33 PM,Synthetic closure recorded for demonstration.
+ACT-0597,INC-1473,Status changed: Submitted -> Under Review,09/08/2026 02:14 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0598,INC-1473,Status changed: Under Review -> Resolved,09/08/2026 07:23 AM,Synthetic resolution recorded for demonstration.
+ACT-0599,INC-1474,Status changed: Submitted -> Under Review,25/07/2026 03:34 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0600,INC-1474,Status changed: Under Review -> Resolved,26/07/2026 12:06 AM,Synthetic resolution recorded for demonstration.
+ACT-0601,INC-1475,Status changed: Submitted -> Under Review,29/09/2026 09:51 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0602,INC-1475,Status changed: Under Review -> Resolved,30/09/2026 09:58 AM,Synthetic resolution recorded for demonstration.
+ACT-0603,INC-1476,Status changed: Submitted -> Under Review,21/06/2026 02:43 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0604,INC-1476,Status changed: Under Review -> Resolved,21/06/2026 10:57 AM,Synthetic resolution recorded for demonstration.
+ACT-0605,INC-1477,Status changed: Submitted -> Under Review,24/06/2026 10:47 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0606,INC-1478,Status changed: Submitted -> Under Review,08/08/2026 09:58 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0607,INC-1478,Status changed: Under Review -> Closed,08/08/2026 10:58 AM,Synthetic closure recorded for demonstration.
+ACT-0608,INC-1479,Status changed: Submitted -> Under Review,03/09/2026 04:20 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0609,INC-1480,Status changed: Submitted -> Under Review,18/08/2026 05:31 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0610,INC-1480,Status changed: Under Review -> Resolved,19/08/2026 04:30 AM,Synthetic resolution recorded for demonstration.
+ACT-0611,INC-1481,Status changed: Submitted -> Under Review,03/08/2026 03:58 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0612,INC-1482,Status changed: Submitted -> Under Review,12/10/2026 12:11 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0613,INC-1483,Status changed: Submitted -> Under Review,12/09/2026 07:19 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0614,INC-1483,Status changed: Under Review -> Resolved,13/09/2026 08:14 AM,Synthetic resolution recorded for demonstration.
+ACT-0615,INC-1484,Status changed: Submitted -> Under Review,01/07/2026 12:25 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0616,INC-1485,Status changed: Submitted -> Under Review,11/05/2026 04:20 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0617,INC-1485,Status changed: Under Review -> Resolved,11/05/2026 02:40 PM,Synthetic resolution recorded for demonstration.
+ACT-0618,INC-1486,Status changed: Submitted -> Under Review,14/09/2026 10:45 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0619,INC-1486,Status changed: Under Review -> Closed,14/09/2026 08:54 PM,Synthetic closure recorded for demonstration.
+ACT-0620,INC-1488,Status changed: Submitted -> Under Review,27/09/2026 02:52 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0621,INC-1488,Status changed: Under Review -> Closed,27/09/2026 03:55 PM,Synthetic closure recorded for demonstration.
+ACT-0622,INC-1489,Status changed: Submitted -> Under Review,17/06/2026 06:59 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0623,INC-1489,Status changed: Under Review -> Resolved,19/06/2026 02:58 AM,Synthetic resolution recorded for demonstration.
+ACT-0624,INC-1490,Status changed: Submitted -> Under Review,30/06/2026 03:52 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0625,INC-1490,Status changed: Under Review -> Closed,30/06/2026 08:22 PM,Synthetic closure recorded for demonstration.
+ACT-0626,INC-1491,Status changed: Submitted -> Under Review,25/05/2026 06:09 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0627,INC-1493,Status changed: Submitted -> Under Review,22/06/2026 12:35 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0628,INC-1494,Status changed: Submitted -> Under Review,03/08/2026 12:45 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0629,INC-1494,Status changed: Under Review -> Resolved,03/08/2026 10:48 AM,Synthetic resolution recorded for demonstration.
+ACT-0630,INC-1495,Status changed: Submitted -> Under Review,26/06/2026 03:03 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0631,INC-1495,Status changed: Under Review -> Resolved,27/06/2026 07:12 AM,Synthetic resolution recorded for demonstration.
+ACT-0632,INC-1496,Status changed: Submitted -> Under Review,12/05/2026 02:11 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0633,INC-1496,Status changed: Under Review -> Resolved,13/05/2026 05:55 AM,Synthetic resolution recorded for demonstration.
+ACT-0634,INC-1497,Status changed: Submitted -> Under Review,01/06/2026 07:12 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0635,INC-1497,Status changed: Under Review -> Resolved,01/06/2026 07:01 PM,Synthetic resolution recorded for demonstration.
+ACT-0636,INC-1499,Status changed: Submitted -> Under Review,14/07/2026 12:02 PM,Synthetic review started. No live suspicious link was opened.
+ACT-0637,INC-1500,Status changed: Submitted -> Under Review,05/10/2026 08:05 AM,Synthetic review started. No live suspicious link was opened.
+ACT-0638,INC-1500,Status changed: Under Review -> Closed,06/10/2026 03:15 AM,Synthetic closure recorded for demonstration.
