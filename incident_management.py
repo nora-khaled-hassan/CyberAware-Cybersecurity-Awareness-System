@@ -2,7 +2,7 @@ from dataclasses import dataclass
 from datetime import datetime
 
 
-#  Shared allowed values
+
 CATEGORIES = (
     "Phishing / Suspicious Message",
     "Account Security",
@@ -24,7 +24,7 @@ STATUSES = ("Submitted", "Under Review", "Resolved", "Closed")
 MAX_DESCRIPTION_LENGTH = 1000
 
 
-#  Allowed status transitions
+
 STATUS_TRANSITIONS = {
     "Submitted": ("Under Review",),
     "Under Review": ("Resolved", "Closed"),
@@ -33,7 +33,7 @@ STATUS_TRANSITIONS = {
 }
 
 
-#  Shared incident and action schemas
+
 INCIDENT_FIELDS = (
     "incident_id",
     "reported_at",
@@ -57,12 +57,12 @@ ACTION_FIELDS = (
 )
 
 
-# Return the current date and time in a readable format
+
 def now():
     return datetime.now().astimezone().strftime("%d/%m/%Y %I:%M %p")
 
 
-# Check whether a date matches the required format.
+
 def validate_datetime(value):
     try:
         datetime.strptime(value, "%d/%m/%Y %I:%M %p")
@@ -86,7 +86,7 @@ class Incident:
     reviewed_at: str = ""
     resolution: str = ""
 
-    #  Validate incident data
+    
     def validate(self):
         text_fields = (
             self.incident_id,
@@ -151,7 +151,7 @@ class Incident:
                 "Review date and time must use DD/MM/YYYY HH:MM AM/PM format."
             )
 
-        # A reviewed, resolved, or closed incident must have a review time.
+        
         if self.status != "Submitted" and not self.reviewed_at:
             raise ValueError(
                 "A reviewed incident must have a review date and time."
@@ -162,7 +162,7 @@ class Incident:
                 "A resolved incident must have a resolution."
             )
 
-    # Calculate preliminary priority
+    
     def calculate_priority(self):
         if (
             not isinstance(self.severity, str)
@@ -179,7 +179,7 @@ class Incident:
         severity_points = SEVERITY_LEVELS.index(self.severity) + 1
         urgency_points = URGENCY_LEVELS.index(self.urgency) + 1
 
-        # Priority helps reviewers organize reports.
+        
 
         return severity_points + urgency_points
 
@@ -205,7 +205,7 @@ class Incident:
 
         resolution = resolution.strip()
 
-        # Resolution text is only accepted when resolving an incident.
+        
         if new_status != "Resolved" and resolution:
             raise ValueError(
                 "Resolution can only be provided when resolving an incident."
@@ -216,11 +216,11 @@ class Incident:
                 "A resolution is required to resolve an incident."
             )
 
-        # Record the first review time.
+        
         if new_status == "Under Review" and not self.reviewed_at:
             self.reviewed_at = now()
 
-        # Reopening clears the current resolution.
+        
         if new_status == "Under Review":
             self.resolution = ""
 
@@ -229,7 +229,7 @@ class Incident:
 
         self.status = new_status
 
-    #  Convert the incident to the shared schema
+    
     def to_dict(self):
         return {
             field: getattr(self, field)
@@ -237,13 +237,13 @@ class Incident:
         }
 
 
-#  Manage incidents and generate unique IDs
+
 class IncidentManager:
     def __init__(self, incidents=None, actions=None):
         self.incidents = list(incidents) if incidents is not None else []
         self.actions = list(actions) if actions is not None else []
 
-        # Validate loaded incidents and prevent duplicate IDs
+        
         used_ids = set()
 
         for incident in self.incidents:
@@ -256,7 +256,7 @@ class IncidentManager:
 
             used_ids.add(incident.incident_id)
 
-        # Validate action IDs and prevent duplicates
+        
         used_action_ids = set()
 
         for action in self.actions:
@@ -281,7 +281,7 @@ class IncidentManager:
 
             used_action_ids.add(action_id)
 
-    # Generate the next incident ID
+
     def _next_incident_id(self):
         if not self.incidents:
             return "INC-1001"
@@ -293,7 +293,7 @@ class IncidentManager:
 
         return "INC-" + str(biggest + 1)
 
-    # Generate the next action ID
+    
     def _next_action_id(self):
         if not self.actions:
             return "ACT-0001"
@@ -305,7 +305,7 @@ class IncidentManager:
 
         return "ACT-" + str(biggest + 1).zfill(4)
 
-    # Requirement 5: Create a new incident.
+    
     def add_incident(self, report_data):
         if not isinstance(report_data, dict):
             raise ValueError("Report data must be a dictionary.")
@@ -346,7 +346,7 @@ class IncidentManager:
         self.incidents.append(incident)
         return incident
 
-    # Find an incident by ID
+    
     def find_incident(self, incident_id):
         if not isinstance(incident_id, str) or not incident_id.strip():
             return None
@@ -359,7 +359,7 @@ class IncidentManager:
 
         return None
 
-    # Update status and record the action.
+    # Update status and record the action
     def update_status(
         self,
         incident_id,
@@ -375,16 +375,16 @@ class IncidentManager:
         if not isinstance(note, str):
             raise ValueError("Action note must be text.")
 
-        # Save the previous values before changing the incident
+        
         old_status = incident.status
         old_resolution = incident.resolution
 
-        # This validates the transition before changing the status
+        
         incident.update_status(new_status, resolution)
 
         note = note.strip()
 
-        # Preserve the previous resolution in the action history
+        
         if old_status == "Resolved" and new_status == "Under Review":
             previous_resolution = (
                 "Previous resolution: " + old_resolution
