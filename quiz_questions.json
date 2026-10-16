@@ -1,0 +1,28 @@
+[
+  {
+    "question_id": "q1",
+    "topic": "Phishing",
+    "question": "What is the most common indicator of a phishing email?",
+    "options": [
+      "A) Personalized greeting with your full name",
+      "B) Urgent threats or pressure to act quickly",
+      "C) Official company logo and correct branding",
+      "D) Normal friendly tone from a known contact"
+    ],
+    "correct_option": "B) Urgent threats or pressure to act quickly",
+    "explanation": "Phishers often create a false sense of urgency to trick victims into clicking malicious links without thinking."
+  },
+  {
+    "question_id": "q2",
+    "topic": "Passwords",
+    "question": "Which of the following creates a strong and secure password?",
+    "options": [
+      "A) Your pet's name followed by your birth year",
+      "B) A simple sequence like 12345678",
+      "C) A mix of uppercase, lowercase, numbers, and symbols",
+      "D) Your phone number"
+    ],
+    "correct_option": "C) A mix of uppercase, lowercase, numbers, and symbols",
+    "explanation": "Strong passwords combine different character types and are long enough to resist brute-force attacks."
+  }
+]
